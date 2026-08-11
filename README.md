@@ -10,7 +10,7 @@
 ### 🎯 Ce que je recherche
 
 - Un **contrat d'apprentissage en alternance**
-- Postes : **Développeur fullstack / Devops / Consultant PLM / Consultant ERP**
+- Postes : **Développeur fullstack • Ingénieur Devops • Intégrateur PLM / ERP**
 - Rythme : **2 semaines en entreprise** & **1 semaine en école**
 - Mobilité : **Haute-Garonne** & **Île-de-France**
 

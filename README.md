@@ -10,7 +10,7 @@
 ### 🎯 Ce que je recherche
 
 - Un **contrat d'apprentissage en alternance**
-- Postes : **Développeur fullstack • Ingénieur Devops • Intégrateur PLM / ERP**
+- Postes : **Développeur full Stack • Ingénieur Devops • Intégrateur PLM / ERP / CRM**
 - Rythme : **2 semaines en entreprise** & **1 semaine en école**
 - Mobilité : **Haute-Garonne** & **Île-de-France**
 
@@ -23,11 +23,11 @@
 **Backend** : Spring Boot • FastAPI • Node.js<br/>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" height="40" />
 
-**Frontend** : React • Vue.js <br/>
-<img src="https://skillicons.dev/icons?i=react,vue" height="40" />
+**Frontend** : React.js • Next.js <br/>
+<img src="https://skillicons.dev/icons?i=react,next" height="40" />
 
-**SGBD** : PostgreSQL • MySQL <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
+**SGBD** : PostgreSQL • MongoDB <br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40" />
 
 **DevOps** : Docker • GitHub Actions (CI/CD) • Terraform • AWS<br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,terraform,aws" height="40" />

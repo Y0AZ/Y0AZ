@@ -13,7 +13,7 @@
 - Rythme : **2 semaines en entreprise** & **1 semaine en école**
 - Mobilité : **Haute-Garonne** & **Île-de-France**
 - Postes recherchés : <br/>
-    #**Développeur full Stack + IA applicative** <br/>
+    #**Développeur full-stack + IA applicative** <br/>
     #**Ingénieur DevOps / MLOps** <br/>
     #**Intégrateur PLM / ERP / CRM** <br/>
 

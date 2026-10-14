@@ -11,7 +11,7 @@
 
 - Un **contrat d'apprentissage en alternance**
 - Rythme : **2 semaines en entreprise** & **1 semaine en école**
-- Mobilité : **Haute-Garonne** & **Île-de-France**
+- Mobilité : **Île-de-France** & **Haute-Garonne** 
 - Postes recherchés : <br/>
     #**Développeur full-stack / IA applicative** <br/>
     #**Ingénieur DevOps / MLOps** <br/>
@@ -23,8 +23,8 @@
 **Langages** : Java • Python  • JavaScript <br/>
 <img src="https://skillicons.dev/icons?i=java,python,js" height="40" />
 
-**Backend** : Spring Boot • FastAPI • Node.js<br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" height="40" />
+**Backend** : Spring Boot • FastAPI • Node.js • Express<br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,expressjs" height="40" />
 
 **Frontend** : React.js • Next.js <br/>
 <img src="https://skillicons.dev/icons?i=react,next" height="40" />

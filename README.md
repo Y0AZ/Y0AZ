@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour & Bienvenue sur mon portail Github 👋</h1>
-<h3 align="center">Je suis Aymeric YAPI, apprenti ingénieur logiciel en bac+4</h3>
+<h3 align="center">Je suis Aymeric YAPI, apprenti ingénieur logiciel en bac+5</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Y0AZ&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
@@ -13,9 +13,9 @@
 - Rythme : **2 semaines en entreprise** & **1 semaine en école**
 - Mobilité : **Île-de-France** & **Haute-Garonne** 
 - Postes recherchés : <br/>
-    #**Développeur full-stack / IA applicative** <br/>
-    #**Ingénieur DevOps / MLOps** <br/>
+    #**Développeur FullStack & IA appliquée** <br/>
     #**Intégrateur PLM / ERP / CRM** <br/>
+    #**Ingénieur DevOps** <br/>
 
 ---
 

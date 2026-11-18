@@ -20,23 +20,23 @@
 ---
 
 
-**Langages** : Java • Python  • JavaScript <br/>
-<img src="https://skillicons.dev/icons?i=java,python,js" height="40" />
+**Langages** : Java • Python  • JavaScript • TypeScript <br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" height="40" />
 
 **Backend** : Spring Boot • FastAPI • Node.js • Express<br/>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,expressjs" height="40" />
 
-**Frontend** : React.js • Next.js <br/>
-<img src="https://skillicons.dev/icons?i=react,next" height="40" />
+**Frontend** : React • Next.js • Angular<br/>
+<img src="https://skillicons.dev/icons?i=react,next,angular" height="40" />
 
 **SGBD** : PostgreSQL • MongoDB <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40" />
 
-**DevOps** : Docker • GitHub Actions (CI/CD) • Terraform • AWS<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,terraform,aws" height="40" />
+**DevOps** : Bash • Docker • GitHub Actions (CI/CD) • Vercel <br/>
+<img src="https://skillicons.dev/icons?i=bash,docker,githubactions,vercel" height="40" />
 
-**Outils** : Git • GitHub<br/>
-<img src="https://skillicons.dev/icons?i=git,github" height="40" />
+**Outils** : Git • GitHub • VS Code • IntelliJ Idea<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="40" />
 
 ---
 

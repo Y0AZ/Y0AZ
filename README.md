@@ -52,7 +52,8 @@ Prochaine étape : un projet complet qui intègre un LLM avec du RAG derrière u
 - **En cours d'apprentissage** :
   - Infrastructure as Code : Terraform, Ansible
   - Observabilité : Prometheus, Grafana
-  - Orchestration et cloud : Kubernetes, AWS
+  - Orchestration et cloud : Kubernetes, AWS <br/>
+    
 **Tests et qualité**
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" height="40" />&nbsp;
@@ -94,9 +95,9 @@ Le volet data de ma formation me confère une bonne base du domaine : je sais co
 
 ### 💼 Expérience
  
-#### Développeur PLM : stage chez Extern-ISC (2025)
+#### Développement JAVA & Intégration PLM : stage chez Extern-ISC (2025)
  
-Customisation de la solution **PTC Windchill** (PLM : Product Lifecycle Management), de l'analyse du besoin client jusqu'à la livraison documentée.
+Customisation du progiciel PLM (Product Lifecycle Management) **PTC Windchill** , de l'analyse du besoin client jusqu'à la livraison documentée.
  
 - **Missions** : analyse du besoin client · développement d'outils en Java · tests · génération des exécutables `.jar` · packaging · rédaction de la documentation (guide d'utilisation, dossier d'architecture)
 - **Réalisation clé** : développement de **6 admin tools** pour Windchill

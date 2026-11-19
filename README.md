@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour & Bienvenue sur mon portail GitHub 👋</h1>
 <h3 align="center">Je suis Aymeric, étudiant en Mastère Ingénierie du Logiciel (Bac+5)</h3>
-<h5 align="center">Développeur Fullstack · IA appliquée · DevOps · Data engineering</h5>
+<h5 align="center">Développement Fullstack · IA appliquée · DevOps · Data engineering</h5>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Y0AZ&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profile views" />

@@ -10,6 +10,19 @@
  
 ---
  
+### 🎯 Ce que je recherche
+ 
+- Un **contrat d'apprentissage en alternance** ou **stage alterné**
+- Rythme : **2 semaines en entreprise** et **1 semaine à l'école**
+- Mobilité : **Île-de-France** et **Haute-Garonne**
+- Disponibilité : **immédiate**
+- Postes visés :
+  - **Développeur Fullstack & IA appliquée**
+  - **Ingénieur DevOps**
+  - **Intégrateur PLM / ERP / CRM**
+
+---
+ 
 #### 🟩 MERN : MongoDB · Express · React · Node.js
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,vite,tailwind,nextjs" height="40" />
 
@@ -113,18 +126,6 @@ Customisation du progiciel PLM (Product Lifecycle Management) **PTC Windchill** 
  
 - **Mastère Expert en Informatique et Systèmes d'Information**, filière Ingénierie du Logiciel à l'EPSI (en cours)
 - **Licence en Informatique, parcours MIASHS** (Mathématiques & Informatique Appliquées aux Sciences Humaines & Sociales) en 2025
----
- 
-### 🎯 Ce que je recherche
- 
-- Un **contrat d'apprentissage en alternance** ou **stage alterné**
-- Rythme : **2 semaines en entreprise** et **1 semaine à l'école**
-- Mobilité : **Île-de-France** et **Haute-Garonne**
-- Disponibilité : **immédiate**
-- Postes visés :
-  - **Développeur Fullstack & IA appliquée**
-  - **Ingénieur DevOps**
-  - **Intégrateur PLM / ERP / CRM**
 ---
  
 ### 📫 Me contacter

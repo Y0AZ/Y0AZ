@@ -33,7 +33,7 @@ Autour : Vite, Tailwind CSS, Next.js et Mongoose (ODM MongoDB).
 <img src="https://skillicons.dev/icons?i=postgres,spring,angular,java,maven" height="40" />
 
 PSAJ, c'est le nom que je donne à l'équivalent « entreprise » de MERN, le socle des SI d'entreprise.<br/>
-Côté back : **Spring Boot**, **JPA / Hibernate** (ORM PostgreSQL), **Maven**, documentation **Swagger / OpenAPI**, tests **JUnit 5 + Mockito**.<br/>
+Côté back : **Spring Boot**, **JPA / Hibernate** (ORM PostgreSQL), **Maven** pour le build.<br/>
 Côté front : j'apprends **Angular** (avec TypeScript) pour compléter ce socle.
  
 ---
